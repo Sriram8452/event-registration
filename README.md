@@ -234,9 +234,9 @@ color: #000000;
 
 
 ## OUTPUT:
-![model](1.png)
-![model](2.png)
-![model](3.png)
+![model](./1.png)
+![model](./2.png)
+![model](./3.png)
 
 ## Result:
 The Program is executed Successfully
